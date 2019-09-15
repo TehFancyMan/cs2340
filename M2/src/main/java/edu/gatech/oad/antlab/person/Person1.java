@@ -6,7 +6,7 @@ package edu.gatech.oad.antlab.person;
  *  modified string
  *
  *  @author Andrew von Hillebrandt
- *  @version 1.1
+ *  @version 1.2
  */
 public class Person1 {
   /** Holds the persons real name */

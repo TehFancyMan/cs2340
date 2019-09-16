@@ -43,6 +43,10 @@ public class Person3 {
 	 */
 	private String calc(String input) {
 	  //Person 3 put your implementation here
-	  return null;
+	  String reverseString;
+	  for(String letter: input) {
+		  reverseString = letter + reverseString;
+	  }
+	  return reverseString;  
 	}
 }
